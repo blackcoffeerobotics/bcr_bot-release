@@ -1,0 +1,8 @@
+ros-noetic-bcr-bot (0.0.2-1focal) focal; urgency=high
+
+  * Setting Gazebo resource paths through launch files
+  * Modified launch files to dynamically spawn bcr_bot
+
+ -- Gaurav Gupta <gaurav@blackcoffeerobotics.com>  Tue, 02 Apr 2024 18:30:00 -0000
+
+
